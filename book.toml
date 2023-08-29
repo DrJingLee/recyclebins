@@ -8,7 +8,7 @@ build-dir = "build"
 create-missing = false
 
 [output.html]
-cname = "DrJingLee.github.io"
+cname = " "
 default-theme = "coal"
 git-repository-url = "https://github.com/DrJingLee/DrJingLee.github.io"
 preferred-dark-theme = "coal"
