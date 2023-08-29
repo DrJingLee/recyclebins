@@ -1,7 +1,7 @@
 # Summary
 [Introduction](introduction.md)  
 - [English](SUMMARY.md)
-  - [中文版](chn/src/SUMMARY.md)
+  - [中文版](docs/chn/src/SUMMARY.md)
   - [Español](chn/src)
   - [日本语](chn/src)
   - [Arabic](chn/src)
