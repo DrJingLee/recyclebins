@@ -1,7 +1,7 @@
 # Ordinals Handbook
 
 [Introduction](src/introduction.md)
-- [English](lauguanges.md)
+- [English](src/)
 - [Lauguanges](lauguanges.md)
   - [中文版](docs/chn/src/SUMMARY.md)
   - [Español](docs/chn/src)
