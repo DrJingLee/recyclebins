@@ -2,6 +2,7 @@
 title = "Ordinal Theory Handbook"
 language = "en"
 src = "src"
+preface = "docs/src/introduction.md"
 
 [build]
 build-dir = "build"
@@ -12,6 +13,5 @@ cname = " "
 default-theme = "rust"
 git-repository-url = "https://github.com/DrJingLee/OrdinalsDocs"
 preferred-dark-theme = "coal"
-preface = "docs/src/introduction.md"
 
 [output.linkcheck]
