@@ -1,6 +1,6 @@
 # Summary
-[Introduction](introduction.md)
-  - [English](SUMMARY.md)
+[Introduction](introduction.md)  
+- [English](SUMMARY.md)
   - [中文版](/chn/src/SUMMARY.md)
   - [Español](/chn/src)
   - [日本语](/chn/src)
