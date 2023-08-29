@@ -8,9 +8,9 @@ build-dir = "build"
 create-missing = false
 
 [output.html]
-cname = "docs.ordinals.com/chn"
+cname = ""
 default-theme = "coal"
-git-repository-url = "https://github.com/ordinals/ord"
+git-repository-url = ""
 preferred-dark-theme = "coal"
 
 [output.linkcheck]
