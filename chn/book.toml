@@ -1,7 +1,7 @@
 [book]
 title = "序数理论手册"
 language = "zh"
-src = "chn/src"
+src = "src"
 
 [build]
 build-dir = "build"
