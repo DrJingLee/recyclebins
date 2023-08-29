@@ -1,4 +1,4 @@
-# Ordinals Handbook
+### Ordinals Handbook
 
 [Introduction](src/introduction.md)
 - [English](src/)
