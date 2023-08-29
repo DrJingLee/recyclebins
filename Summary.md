@@ -1,6 +1,5 @@
-# Ordinals Handbook
-## Summary
-[Introduction](introduction.md)
+# Summary
+[Introduction](../src/introduction.md)
 - [Overview](overview.md)
 - [Digital Artifacts](digital-artifacts.md)
 - [Inscriptions](inscriptions.md)
