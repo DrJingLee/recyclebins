@@ -9,7 +9,7 @@ create-missing = false
 
 [output.html]
 cname = " "
-default-theme = "coal"
+default-theme = "rust"
 git-repository-url = "https://github.com/DrJingLee/OrdinalsDocs"
 preferred-dark-theme = "coal"
 preface = "docs/src/introduction.md"
