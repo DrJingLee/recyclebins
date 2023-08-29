@@ -10,7 +10,7 @@ create-missing = false
 [output.html]
 cname = " "
 default-theme = "coal"
-git-repository-url = "https://github.com/DrJingLee/DrJingLee.github.io"
+git-repository-url = "https://github.com/DrJingLee/OrdinalsDocs"
 preferred-dark-theme = "coal"
 
 [output.linkcheck]
