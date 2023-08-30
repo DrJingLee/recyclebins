@@ -1,17 +1,20 @@
 [book]
-title = "Ordinal Theory Handbook"
+title = "Ordinals Theory Handbook"
+authors = ["Ordinals"]
+description = "Handbook"
 language = "en"
-src = "src"
-preface = "docs/src/introduction.md"
-
-[build]
-build-dir = "build"
-create-missing = false
+src = "src/en"
 
 [output.html]
-cname = " "
-default-theme = "rust"
-git-repository-url = "https://github.com/DrJingLee/OrdinalsDocs"
-preferred-dark-theme = "coal"
+curly-quotes = false
 
-[output.linkcheck]
+[preprocessor.gettext]
+command = "mdbook-gettext"
+languages = ["en", "zh"]
+after = ["links"]
+
+fallback-language = "en"
+
+[output.html.playpen]
+
+languages-in-scope = ["en", "zh"]
