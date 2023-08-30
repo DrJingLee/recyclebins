@@ -1,0 +1,20 @@
+[book]
+title = "Ordinals Theory Handbook"
+authors = ["Ordinals"]
+description = "Handbook"
+language = "en"
+src = "src/en"
+
+[output.html]
+curly-quotes = false
+
+[preprocessor.gettext]
+command = "mdbook-gettext"
+languages = ["en", "zh"]
+after = ["links"]
+
+fallback-language = "en"
+
+[output.html.playpen]
+
+languages-in-scope = ["en", "zh"]
